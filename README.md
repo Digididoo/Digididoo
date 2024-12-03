@@ -1,16 +1,11 @@
-## Hi there 👋
+## About me
 
-<!--
-**Digididoo/Digididoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Knulli](https://github.com/knulli-cfw)/Retro projects
+- 🌱 I’m currently learning PostgreSQL, Data Analysis, Japanese... I love to learn
+- 👯 I’m looking to collaborate on translations to/from Spanish. I'm also quite good at testing and documenting Issues.
+- 🤔 I’m looking for help with ... (I'm still new here, I don't know)
+- 💬 Ask me about ... anything
+- 📫 How to reach me: for the moment, through here
+- 😄 Pronouns: he/him
+- 🗣 Languages: English, Spanish, Italian (and some French and Japanese)
+- ⚡ Fun fact: they taught me only Fortran in college (not so long ago) and I hate it
